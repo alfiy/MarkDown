@@ -16,6 +16,10 @@
 
 ## 图片
 
+- 图片的 MarkDown 语法  
+    ![alt](url text)  
+- 外部图片  
+![baidu log](https://www.baidu.com/img/bd_logo1.png "百度LOGO")  
 ## 引用
 
 ## 代码块
