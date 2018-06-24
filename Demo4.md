@@ -20,6 +20,9 @@
     ![alt](url text)  
 - 外部图片  
 ![baidu log](https://www.baidu.com/img/bd_logo1.png "百度LOGO")  
+- 内部图片  
+![风景图](images/timg.jpg)  
+
 ## 引用
 
 ## 代码块
