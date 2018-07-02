@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-###Welcome to use MarkDown
-=======
 # 我的MarkDown学习之旅。  
 
 ## 标题
@@ -44,5 +41,4 @@
 1. Name:alfiy  
 2. QQ:130126
 
-   
->>>>>>> 8cd31f974bb8ad1eec3703b49062773f9cc2fad2
+
