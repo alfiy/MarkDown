@@ -33,7 +33,10 @@
 
 ## 代码块
 
-这里是代码块的内容…………
+```` java
+public static void main (string[] args){
+    System.out.println ("Hello world!");
+}
 
 <!--- 下面是本文档中用到的链接 -->
 [百度]:http://www.baidu.com
