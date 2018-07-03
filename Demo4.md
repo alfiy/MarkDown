@@ -38,6 +38,8 @@ public static void main (string[] args){
     System.out.println ("Hello world!");
 }
 
+````
+
 <!--- 下面是本文档中用到的链接 -->
 [百度]:http://www.baidu.com
 [baidu]:http://www.baidu.com
