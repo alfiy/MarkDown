@@ -34,9 +34,29 @@
 ## 代码块
 
 ```` java
+
 public static void main (string[] args){
-    System.out.println ("Hello world!");
+    
+    int i = 10;
+    int j = 20;
+    System.out.println (i + j);
+    
 }
+
+````
+
+```` html
+
+<html>
+<head><title>This is a html document</title></head>
+
+<body>
+    <div algin="center">
+    Hello welcome HTML world!
+    </div>
+</body>
+
+</html>
 
 ````
 
