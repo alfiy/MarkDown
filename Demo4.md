@@ -51,7 +51,7 @@ public static void main (string[] args){
 <head><title>This is a html document</title></head>
 
 <body>
-    <div algin="center">
+    <div align="center">
     Hello welcome HTML world!
     </div>
 </body>
@@ -64,7 +64,7 @@ public static void main (string[] args){
 <head><title>This is a html document</title></head>
 
 <body>
-    <div algin="center">
+    <div align="center">
     Hello welcome HTML world!
     </div>
 </body>
