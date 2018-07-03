@@ -60,6 +60,17 @@ public static void main (string[] args){
 
 ````
 
+<html>
+<head><title>This is a html document</title></head>
+
+<body>
+    <div algin="center">
+    Hello welcome HTML world!
+    </div>
+</body>
+
+</html>
+
 <!--- 下面是本文档中用到的链接 -->
 [百度]:http://www.baidu.com
 [baidu]:http://www.baidu.com
